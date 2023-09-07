@@ -1,3 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  
+</head>
+<body>
+  <img src="https://media.licdn.com/dms/image/D5616AQGInix4VnO6MA/profile-displaybackgroundimage-shrink_350_1400/0/1694096165663?e=1699488000&v=beta&t=cr59DrmNY6lNm0tYWdSxsVpSfGgMwn_gp0euRqoFkao" alt="Banner" class="banner">
+  
+  <!-- Your README content goes here -->
+
+
+  
+
+  <!-- End of README content -->
+
+</body>
+</html>
+
 <h1 align="center">Hi 👋, I'm Subhojeet Chakraborty</h1>
 <h3 align="center">Flutter Developer and Machine Learning enthusiast</h3>
 
